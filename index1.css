@@ -1,0 +1,17 @@
+p::first-line {
+    color: blue;
+    font-size: 25px;
+}
+
+a:hover {
+    background-color: aquamarine;
+    color: blue;
+}
+
+p[align="left"] {
+    background-color: chartreuse;
+}
+
+img[title="css"] {
+    border: 10px solid crimson;
+}
