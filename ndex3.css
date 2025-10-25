@@ -1,0 +1,18 @@
+.book1 {
+
+    background-color: cornflowerblue;
+    display: inline;
+    width: 50px;
+    height: 100px;
+}
+
+.book2 {
+    background-color: blue;
+    display: inline-block;
+    width: 50px;
+    height: 100px;
+}
+
+img {
+    float: right;
+}

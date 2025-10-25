@@ -1,0 +1,8 @@
+div {
+    border-style: dotted;
+    border-color: rgb(206, 156, 253);
+    border-radius: 1px;
+    border-width: 40px;
+    width: 400px;
+    height: 400px;
+}
